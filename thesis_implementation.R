@@ -4,6 +4,7 @@ load_all('/Users/mschalberger/Downloads/ergm.multi-private-mutex')
 library(ergm.sign)
 
 
+
 # Create random list of adjacency matrices
 # Static
 set.seed(1234)

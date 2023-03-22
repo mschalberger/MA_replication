@@ -3,7 +3,7 @@
     "path": "~/Documents/Master Thesis/ergm.sign_replication/syria_application.R",
     "project_path": "syria_application.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "627527200",
     "contents": "",
     "dirty": false,
     "created": 1679509234975.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,0",
+        "cursorPosition": "2,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679426344,
+    "lastKnownWriteTime": 1679510317,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679426344,
+    "last_content_update": 1679510317715,
     "read_only": false,
     "read_only_alternatives": []
 }
