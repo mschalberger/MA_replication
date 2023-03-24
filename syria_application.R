@@ -1,8 +1,12 @@
-setwd("./ergm.sign_replication")
-
-
+library(here)
+library(devtools)
 library(dplyr)
 library(lubridate)
+
+install_github("mschalberger/ergm.sign")
+library(ergm.sign)
+
+setwd(dirname(here("syria_application")))
 
 # Load the csv file into a data frame
 event_data <- read.csv("Data/1997-01-01-2021-03-31-Afghanistan-Iraq-Nigeria-Syria.csv") #acled

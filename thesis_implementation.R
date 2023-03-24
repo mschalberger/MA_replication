@@ -1,6 +1,7 @@
-setwd("~/Documents/Master Thesis/ergm.sign/R")
+setwd(dirname(here("thesis_implementation")))
+
 library(devtools)
-load_all('/Users/mschalberger/Downloads/ergm.multi-private-mutex')
+install_github("mschalberger/ergm.sign")
 library(ergm.sign)
 
 
